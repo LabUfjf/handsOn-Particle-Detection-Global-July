@@ -58,15 +58,66 @@ The repository is structured as follows:
 
 ## Getting Started
 
-To get started with the hands-on, follow these steps:
+To use the repository, you have two options: running the code on Google Colab or setting it up on your local machine. Follow the instructions below based on your preferred environment.
 
-1. Clone this repository to your local machine using the following command:
+### Google Colab
 
-2. Navigate to the respective lecture's folder using the command line or your preferred file explorer.
+1. Open the repository in your web browser by clicking on the repository link: [repository-link](https://github.com/your-username/your-repository).
 
-3. Open the `notebook.ipynb` file using Jupyter Notebook or any compatible environment.
+2. Navigate to the desired lecture folder, such as `lecture1`.
 
-4. Follow the instructions and code snippets in the notebook to complete each lecture's tasks.
+3. Click on the `code.ipynb` file to open it in Google Colab.
+
+4. Once the notebook opens, click on the "Open in Colab" button at the top of the page. This will launch the notebook in Google Colab.
+
+5. Follow the instructions and execute the code cells in the notebook. Modify the code as instructed during the hands-on session.
+
+### Local Machine Setup
+
+#### Prerequisites
+
+- Python 3.x installed on your local machine. If you don't have Python installed, you can download it from the official Python website: [https://www.python.org/downloads/](https://www.python.org/downloads/).
+
+#### Instructions
+
+1. Clone the repository to your local machine using Git or download it as a ZIP file and extract it to a desired location.
+
+   ```shell
+   git clone https://github.com/your-username/your-repository.git
+
+2. Open a command line or terminal window.
+
+3. Navigate to the lecture folder you want to work on, for example, lecture1.
+   
+   ```shell
+    cd your-repository/lecture1`
+
+4. Create a virtual environment (optional but recommended) to isolate the project dependencies.
+
+   For Windows: 
+      ```
+        python -m venv venv
+        venv\Scripts\activate
+      ```
+
+   For macOS and Linux:
+
+      ```
+         python3 -m venv venv
+         source venv/bin/activate
+      ```
+5. Install the required dependencies by executing the following command:
+   ```
+      pip install -r requirements.txt
+   ```
+6. Launch Jupyter Notebook to run the code:
+   ```
+      jupyter notebook
+   ```
+
+8. In your web browser, Jupyter Notebook will open automatically. Click on the handson_1.ipynb notebook to open it.
+
+9. Follow the instructions and execute the code cells in the notebook. Modify the code as instructed during the hands-on session.
 
 ## Requirements
 
