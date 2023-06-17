@@ -90,7 +90,7 @@ To use the repository, you have two options: running the code on Google Colab or
 3. Navigate to the lecture folder you want to work on, for example, lecture1.
    
    ```shell
-    cd handsOn-Particle-Detection-Global-July/lecture1`
+    cd handsOn-Particle-Detection-Global-July/lecture1
 
 4. Create a virtual environment (optional but recommended) to isolate the project dependencies.
 
