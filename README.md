@@ -32,23 +32,23 @@ The repository is structured as follows:
 
 - `lecture1/`: Contains the Jupyter Notebook for Lecture 1.
   - `handson_1.ipynb`: Includes imported libraries and useful code.
-  - `example.ipynb`: Provides additional examples for reference.
+  - `example_1.ipynb`: Provides additional examples for reference.
 
 - `lecture2/`: Contains the Jupyter Notebook for Lecture 2.
   - `handson_2.ipynb`: Includes imported libraries and useful code.
-  - `example.ipynb`: Provides additional examples for reference.
+  - `example_2.ipynb`: Provides additional examples for reference.
 
 - `lecture3/`: Contains the Jupyter Notebook for Lecture 3.
   - `handson_3.ipynb`: Includes imported libraries and useful code.
-  - `example.ipynb`: Provides additional examples for reference.
+  - `example_3.ipynb`: Provides additional examples for reference.
 
 - `lecture4/`: Contains the Jupyter Notebook for Lecture 4.
   - `handson_4.ipynb`: Includes imported libraries and useful code.
-  - `example.ipynb`: Provides additional examples for reference.
+  - `example_4.ipynb`: Provides additional examples for reference.
 
 - `lecture5/`: Contains the Jupyter Notebook for Lecture 5.
   - `handson_5.ipynb`: Includes imported libraries and useful code.
-  - `example.ipynb`: Provides additional examples for reference.
+  - `example_5.ipynb`: Provides additional examples for reference.
 
 - `dataset/`: Directory for relevant datasets and images.
   - `/signal`: Folder containing signal image files.
