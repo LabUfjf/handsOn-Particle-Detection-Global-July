@@ -83,14 +83,14 @@ To use the repository, you have two options: running the code on Google Colab or
 1. Clone the repository to your local machine using Git or download it as a ZIP file and extract it to a desired location.
 
    ```shell
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/LabUfjf/handsOn-Particle-Detection-Global-July
 
 2. Open a command line or terminal window.
 
 3. Navigate to the lecture folder you want to work on, for example, lecture1.
    
    ```shell
-    cd your-repository/lecture1`
+    cd handsOn-Particle-Detection-Global-July/lecture1`
 
 4. Create a virtual environment (optional but recommended) to isolate the project dependencies.
 
@@ -139,7 +139,7 @@ This hands-on session is released under the [MIT License](LICENSE).
 
 Happy learning and exploring the fascinating world of signal processing and electrical engineering!
 
-## Useful bibliografy
+## Useful bibliography
 
 - González, R.C., Woods, R.E., & Eddins, S.L. (2008). Digital Image Processing Using MATLAB. Gatesmark Publishing.
 - Oppenheim, A.V., & Schafer, R.W. (2010). Discrete-Time Signal Processing. Prentice Hall.
