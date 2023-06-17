@@ -62,7 +62,7 @@ To use the repository, you have two options: running the code on Google Colab or
 
 ### Google Colab
 
-1. Open the repository in your web browser by clicking on the repository link: [repository-link](https://github.com/your-username/your-repository).
+1. Open the repository in your web browser by clicking on the repository link: [Hands-on Particle Detection Global July](https://github.com/LabUfjf/handsOn-Particle-Detection-Global-July).
 
 2. Navigate to the desired lecture folder, such as `lecture1`.
 
